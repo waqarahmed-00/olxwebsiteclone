@@ -1,0 +1,138 @@
+.dashboard-slider{
+    width: 100%;
+    height: 100px;
+    text-align: center;
+    margin-top: 20px;
+}
+.dashboard-slider img{
+    width: 90%;
+    height: 200px;
+    text-align: center;
+    display: inline-block;
+}
+.dashboard-images{
+    width: 95%;
+    height: auto;
+    /* background-color: aqua; */
+    margin-top: 150px;
+    margin-left: 40px ;
+}
+.dashboard-images h2{
+    font-size: 23px;
+    width: 100%;
+}
+.dashboard-div-1{
+    height: 200px;
+    width: 150px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+.dashboard-div-2{
+    height: 200px;
+    width: 150px;
+    margin-left: 160px;
+    margin-top: -200px;
+    cursor: pointer;
+}
+.dashboard-div-3{
+    height: 200px;
+    width: 150px;
+    margin-left: 310px;
+    margin-top: -200px;
+    cursor: pointer;
+}
+.dashboard-div-4{
+    height: 200px;
+    width: 150px;
+    margin-left: 460px;
+    margin-top: -200px;
+    cursor: pointer;
+}
+.dashboard-div-5{
+    height: 200px;
+    width: 150px;
+    margin-left: 600px;
+    margin-top: -200px;
+    cursor: pointer;
+}
+.dashboard-div-6{
+    height: 200px;
+    width: 150px;
+    margin-left: 740px;
+    margin-top: -200px;
+    cursor: pointer;
+}
+.dashboard-div-7{
+    height: 200px;
+    width: 150px;
+    margin-left: 890px;
+    margin-top: -200px;
+    cursor: pointer;
+}
+.dashboard-div-8{
+    height: 200px;
+    width: 150px;
+    margin-left: 1040px;
+    margin-top: -200px;
+    cursor: pointer;
+}
+.dashboard-div-9{
+    height: 200px;
+    width: 150px;
+    margin-left: 1180px;
+    margin-top: -200px;
+    cursor: pointer;
+}
+.dashboard-div-10{
+    height: 200px;
+    width: 150px;
+    margin-left: 10px;
+    margin-top: -10px;
+    cursor: pointer;
+}
+.dashboard-div-11{
+    height: 200px;
+    width: 150px;
+    margin-left: 160px;
+    margin-top: -200px;
+    cursor: pointer;
+}
+.dashboard-div-12{
+    height: 200px;
+    width: 150px;
+    margin-left: 310px;
+    margin-top: -200px;
+    cursor: pointer;
+}
+.dashboard-div-13{
+    height: 200px;
+    width: 150px;
+    margin-left: 460px;
+    margin-top: -200px;
+    cursor: pointer;
+}
+.dashboard-div-14{
+    height: 200px;
+    width: 150px;
+    margin-left: 600px;
+    margin-top: -200px;
+    cursor: pointer;
+}
+/* .images div{
+
+}
+.images div{
+    transition: 2s;
+} */
+.dashboard-images img{
+    width: 95px;
+}
+.dashboard-images p{
+    width: 120px;
+    height: 90px;
+    font-size: 17px;
+    text-align: center;
+    font-weight: 700;
+    margin-top: 3px;
+    margin-left: -10px;
+}

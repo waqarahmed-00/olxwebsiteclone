@@ -1,0 +1,164 @@
+.container {
+    padding: 20px;
+    width: 90%;
+    height: auto;
+    /* background-color:aquamarine; */
+    margin-top: 35px;
+    border-radius: 8px;
+    border: 1px solid gray;
+}
+
+.profile-edit-section {
+    width: 100%;
+    /* background-color: black; */
+}
+
+.profile-edit-section h4 {
+    font-weight: 700;
+    font-size: 21px;
+}
+
+.edit-profile-image {
+    width: 100%;
+    margin-top: 30px;
+}
+
+.edit-profile-image h5 {
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.image-upload {
+    width: 100%;
+    /* background-color: black; */
+    /* border-radius: 50%; */
+}
+
+.image-upload img {
+    width: 8%;
+    border-radius: 50%;
+    /* background-color: black; */
+}
+
+.image-upload div {
+    width: 50%;
+    /* background-color: aqua; */
+    margin-top: -70px;
+    margin-left: 110px;
+    height: 70px;
+}
+
+.image-upload div label {
+    font-weight: 700;
+}
+
+.image-upload div input {
+    margin-left: 10px;
+    font-weight: 700;
+}
+
+.image-upload div p {
+    font-size: 13px;
+    margin-left: 110px;
+}
+
+.profile-name-input {
+    width: 500px;
+    /* background-color: aquamarine; */
+}
+
+.profile-name-input label {
+    font-weight: 700;
+}
+
+.profile-name-input input {
+    margin-top: 10px;
+    width: 500px;
+    height: 50px;
+    border-radius: 5px;
+    outline: none;
+    border: 1px solid gray;
+    padding: 10px;
+    font-weight: 600;
+
+}
+
+.profile-age-input {
+    width: 500px;
+}
+
+.profile-age-input label {
+    font-weight: 700;
+    margin-top: 15px;
+}
+
+.profile-age-input input {
+    margin-top: 10px;
+    width: 500px;
+    height: 50px;
+    border-radius: 5px;
+    outline: none;
+    border: 1px solid gray;
+    padding: 10px;
+    font-weight: 600;
+
+}
+
+.profile-email-input {
+    width: 500px;
+}
+
+.profile-email-input label {
+    font-weight: 700;
+    margin-top: 15px;
+}
+
+.profile-email-input input {
+    margin-top: 10px;
+    width: 500px;
+    height: 50px;
+    border-radius: 5px;
+    outline: none;
+    border: 1px solid gray;
+    padding: 10px;
+    font-weight: 600;
+}
+
+.text-area {
+    width: 500px;
+    height: 150px;
+    /* background-color: aqua; */
+    margin-top: 20px;
+}
+
+.text-area textarea {
+    width: 500px;
+    height: 150px;
+    border-radius: 5px;
+    padding: 10px;
+}
+.btn-save{
+    width: 100%;
+}
+.save-changes-btn {
+    padding: 10px 15px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #4CAF50;
+    /* Green background color */
+    color: white;
+    /* White text color */
+    border: none;
+    /* Remove border */
+    border-radius: 5px;
+    /* Add some border-radius for rounded corners */
+    font-weight: 600;
+    /* margin-right: 10px; */
+    margin-left: 960px;
+}
+
+/* Add some hover effect */
+.save-changes-btn:hover {
+    background-color: #45a049;
+    /* Darker green on hover */
+}

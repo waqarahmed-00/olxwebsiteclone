@@ -1,0 +1,114 @@
+.main-div {
+    width: 100%;
+    height: auto;
+    /* background-color: aqua; */
+    background-color: white;
+}
+
+.card {
+    margin-top: 20px;
+    width: 50%;
+    margin-left: 20px;
+}
+
+.user-information {
+    width: 40%;
+    position: absolute;
+    height: 250px;
+    border: 1px solid gray;
+    margin-top: -820px;
+    margin-left: 750px;
+    border-radius: 10px;
+}
+
+.profile {
+    width: 50px;
+    height: 50px;
+    /* background-color: black; */
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.profile img {
+    border-radius: 50%;
+    width: 50px;
+}
+
+.user-name {
+    margin-top: -50px;
+    margin-left: 80px;
+}
+
+.user-name p {
+    margin-top: -6px;
+}
+
+.user-name a {
+    margin-top: -5px;
+    color: black;
+    font-weight: 700;
+}
+
+.number {
+    width: 500px;
+    height: 50px;
+    background-color: seagreen;
+    margin-left: 20px;
+    border-radius: 5px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.number p {
+    text-align: center;
+    font-size: 18px;
+    font-weight: 700;
+    color: white;
+    padding: 10px;
+}
+
+.number img {
+    width: 5%;
+    margin-top: -105px;
+    margin-left: 130px;
+}
+
+.number1 {
+    width: 500px;
+    height: 50px;
+    background-color: white;
+    margin-left: 20px;
+    border-radius: 5px;
+    margin-top: 10px;
+    border: 2px solid seagreen;
+    cursor: pointer;
+}
+
+.number1 p {
+    text-align: center;
+    font-size: 18px;
+    font-weight: 700;
+    color: seagreen;
+    padding: 10px;
+}
+
+.number1 img {
+    width: 5%;
+    margin-top: -105px;
+    margin-left: 200px;
+}
+
+.mySwiper {
+    width: 670px;
+    height: 500px;
+    margin-left: 22px !important;
+    border-radius: 15px;
+    margin-top: 20px;
+    overflow: hidden;
+}
+
+.swiper-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Adjust the image to cover the entire slide */
+}

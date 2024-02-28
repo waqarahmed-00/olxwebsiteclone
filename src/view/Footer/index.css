@@ -1,0 +1,13 @@
+.footer-img{
+    width: 100% !important;
+    height: auto !important;
+    background-color: #f1f1f1 !important;
+}
+.img{
+    width: 100%;
+    background-color: blue !important;
+}
+.img img{
+    width: 10% !important;
+    
+}
